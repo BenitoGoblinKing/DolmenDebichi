@@ -1,8 +1,5 @@
 ---
 title: Дебичи в Долменвуде
-draft: false
-aliases: 
-tags:
 ---
 ![[Header.webp]]
 
