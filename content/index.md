@@ -1,7 +1,7 @@
 ---
 title: Дебичи в Долменвуде
 ---
-![[content/Attachments/Header.webp]]
+![[Dolmen_Logo.webp]]
 
 ### [[Создание Персонажа|1.Создание Персонажа]]
 
